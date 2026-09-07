@@ -2,8 +2,8 @@ body {
     font-family: Arial, sans-serif;
     font-size: 16px;
     margin: 0;
-    background-color: #eef2f1;
-    color: #1f3b4d;
+    background-color: #eeeff2;
+    color: #1f314d;
 }
 
 /* Khung chính của trang */
@@ -18,14 +18,14 @@ footer {
 
 /* Phần đầu trang */
 header {
-    background-color: #dfeae7;
+    background-color: #dfe4ea;
     padding: 30px 20px;
     border-radius: 15px 15px 0 0;
 }
 
 /* Thanh menu */
 nav {
-    background-color: #174d3b;
+    background-color: #1f314d;
     padding: 20px;
     border-radius: 8px;
     margin-bottom: 15px;
@@ -46,7 +46,7 @@ li a {
 h1 {
     text-align: center;
     font-family: Georgia, serif;
-    color: #102f2a;
+    color: #14102f;
 }
 
 /* Nội dung */
@@ -66,7 +66,7 @@ p {
 
 /* Chân trang */
 footer {
-    background-color: #174d3b;
+    background-color: #050505;
     color: white;
     padding: 20px 30px;
     border-radius: 0 0 15px 15px;
