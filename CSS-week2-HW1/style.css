@@ -81,4 +81,12 @@ footer a {
 grid {
     display: grid;
     grid-template-columns: 40% 40%;
+
+    justify-content: center;
+    align-items: center;
+    row-gap: 20px;
+}
+
+grid img {
+    width: 100%;
 }
