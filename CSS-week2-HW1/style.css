@@ -90,3 +90,9 @@ grid {
 grid img {
     width: 100%;
 }
+
+flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
