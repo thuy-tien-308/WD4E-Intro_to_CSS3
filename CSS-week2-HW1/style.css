@@ -77,3 +77,8 @@ footer {
 footer a {
     color: white;
 }
+
+grid {
+    display: grid;
+    grid-template-columns: 40% 40%;
+}
